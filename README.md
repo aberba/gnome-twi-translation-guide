@@ -1,6 +1,6 @@
 # Gnome Akan Translation Guide
 
-![Gnome Akan Translation Page](images/gnome-akan.png)
+![Gnome Akan Translation Page](images/gnome-banner.png)
 
 Welcome to a translation guide from `Akan Translators`. This guide is meant to guide you to learn how you can help translate the `Gnome Software Stack` to twi.
 
