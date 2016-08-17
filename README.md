@@ -59,31 +59,35 @@ At the `Account Registration` page, fill-in the form and click on `Register with
 
 Deamed Lies has four (3) important section which are worth mentioning. They include the `Translation Teams Section`, the `Project Releases Section`, `All Translation Progress Section`, `Individual Language Translation Progress Section`, and `Translation String Download Section`.
 
-### [Translation Teams Section]() [FIX LINK]
+### [Translation Teams Section](https://l10n.gnome.org/teams/)
 
 ![Translation Teams Page](images/teams-section.png)
 
 This page displays the list of available team along their respective `Team Coordinator`. The coordinator is responsible for managing the team.
 
-### [Project Releases Section]() [FIX LINK]
+### [Project Releases Section](https://l10n.gnome.org/teams/ak/)
 
 ![Project Releases](images/releases.png)
 
 This page displays the various versions of the Gnome Software Stack. These include the previous and current versions, `(stable)`, as well as, the uncompleted version which is under development and yet to be released in the near future, `(development)`. It is recommended to translate the `(development)` version which will come with the latest features and changes made in previous releases. Those still under development are provided so that translators can complete translations before final release.
 
-### [All Translation Progress Section]() [FIX LINK]
+### [All Translation Progress Section]() [FIX CONTENT AND LINK]
 
 ![All Languages](images/all-languages.png)
 
 This page displays translations progress of each language in terms of the percentage completely translated. Translations for each language is divided into three section which include `User Interface`, `User Interface (red)` and `Documentation`. Under each section, the percentage translated is indicated in green colour and the percentage untranslated is indicated in red colour. Under each language sections that have completely been translated are fully green whilst those that have not been translated are fully red. You can now scroll scroll down to `Akan` to see translation progress.
 
-### [Individual Language Translation Progress Section]() [FIX LINK]
+### [Individual Language Translation Progress Section](https://l10n.gnome.org/languages/ak/gnome-3-22/ui/) [FIX LINK]
 
 ![Individual Languages](images/individual-language.png)
 
 This page displays the translation progress of an individual language. On this page you can see translation progress on each component that form part of the whole software stack. Each translator decide on the component he or she wants to translate so those that have more green are those that have received major attention from translators. However, the team can agree and prioritise components which they are willing to collectively translate first.
 
-[Translation String Download Section]() [FIX LINK] ![Individual Languages](images/download-section.png) Clicking on any component in the `Individual Language Translation Progress Section` will take you to this page where you can download translation string and upload translated string of that particular component. Below is the function of the various buttons at the top section of the page;
+[Translation String Download Section](https://l10n.gnome.org/vertimus/nautilus/master/po/ak)
+
+![Individual Languages](images/download-section.png) 
+
+Clicking on any component in the `Individual Language Translation Progress Section` will take you to this page where you can download translation string and upload translated string of that particular component. Below is the function of the various buttons at the top section of the page;
 
 - Clicking the first button labelled as `POT file` will download a template translation string (translation strings that are used to start afresh) for the component.
 - Clicking the second button labelled as `PO file statistics`
