@@ -67,7 +67,7 @@ This page displays the list of available team along their respective `Team Coord
 
 ### [Project Releases Section]() [FIX LINK]
 
-![Project Releases](images/all-languages.png)
+![Project Releases](images/releases.png)
 
 This page displays the various versions of the Gnome Software Stack. These include the previous and current versions, `(stable)`, as well as, the uncompleted version which is under development and yet to be released in the near future, `(development)`. It is recommended to translate the `(development)` version which will come with the latest features and changes made in previous releases. Those still under development are provided so that translators can complete translations before final release.
 
