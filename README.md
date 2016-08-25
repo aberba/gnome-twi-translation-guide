@@ -1,10 +1,10 @@
-# Gnome Akan Translation Guide
+# Gnome Twi Translation Guide
 
-![Gnome Akan Translation Page](images/gnome-banner.png)
+![Gnome Twi Translation Page](images/gnome-banner.png)
 
-Welcome to a translation guide from `Akan Translators`. This guide is meant to guide you to learn how you can help translate the `Gnome Software Stack` to twi.
+Welcome to a translation guide from `Twi Translators`. This guide is meant to guide you to learn how you can help translate the `Gnome Software Stack` to twi.
 
-- **Akan Translators** is a team of people who help translate softwares, books, documentations, and other information to the Akan language, mostly `Libre`. For more information, contact us at:
+- **Twi Translators** is a team of people who help translate softwares, books, documentations, and other information to the Akan language, mostly `Libre`. For more information, contact us at:
 
   - Mailing List:
   - Launchpad: <https://launchpad.net/~akan-translators>
